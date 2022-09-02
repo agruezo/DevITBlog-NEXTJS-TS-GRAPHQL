@@ -1,8 +1,8 @@
 <h2>PERSONAL PROJECT</h2>
 
-<h3>Project Idea: BLOG APP</h3>
+<h3>Project Idea: CURRICULUM TRACKING BLOG APP</h3>
 
-Project Description: A blog app that will track my what I've learned and certifications I've taken as I pursue a bachelor's in cloud computing.
+Project Description: A blog app that will track what I've learned and certifications I've taken as I pursue a bachelor's degree in cloud computing.
 
 ## PROJECT BACKEND FEATURES
 
