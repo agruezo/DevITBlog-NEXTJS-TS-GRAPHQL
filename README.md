@@ -1,27 +1,23 @@
-# Next.js + Tailwind CSS Example
+<h2>PERSONAL PROJECT</h2>
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+<h3>Project Idea: BLOG APP</h3>
 
-## Deploy your own
+Project Description: A blog app that will track my what I've learned and certifications I've taken as I pursue a bachelor's in cloud computing.
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+## PROJECT BACKEND FEATURES
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+-   Headless CMS.
+-   GraphQL based blog app.
+-   Blog management through HyGraph, a dedicated content management system.
+-   Parsed incoming data into appropriate objects to use in OOP.
+-   Performed CRUD queries against the database and applied CRUD functionality with one-to-many and many-to-many relationships in Flask application.
 
-## How to use
+## PROJECT FRONTEND FEATURES
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
-
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-```bash
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-```bash
-pnpm create next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+-   Written in NextJS and TypeScript
+-   Tailwind CSS was used for styling
+-   Mobile responsive
+-   Featured and Recent Posts categories
+-   Full markdown articles
+-   Author
+-   Comments
