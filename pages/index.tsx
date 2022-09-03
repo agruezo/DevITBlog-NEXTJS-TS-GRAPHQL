@@ -24,7 +24,7 @@ const Home = ({ posts }: any) => {
                     </div>
                 </div>
             </div>
-            <div className="text-center cursor-pointer font-bold text-white">
+            <div className="text-center cursor-pointer font-bold text-white my-4">
                 <a href="https://alexandergruezo.com">alexandergruezo.com</a>
             </div>
         </div>
